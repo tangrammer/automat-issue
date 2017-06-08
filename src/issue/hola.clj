@@ -1,2 +1,2 @@
 (ns issue.hola
-  (:require [automat.core :as a]))
+  #_(:require [automat.core :as a]))
