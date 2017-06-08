@@ -5,6 +5,7 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :exclusions [org.clojure/clojure]
   :dependencies [[org.clojure/clojure "1.8.0"]
-                 [automat "0.2.2"]]
+                 [automat "0.2.2"]
+                 [com.cemerick/url "0.1.1"]]
   :main issue.core
   :aot :all)
