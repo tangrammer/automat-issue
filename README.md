@@ -17,6 +17,7 @@ ztellman/automat generates Caused by: java.lang.ClassCastException: clojure.lang
   :aot :all)
 ```
 
+```
 $ lein clean && lein uberjar
 Compiling issue.core
 issue core
@@ -155,3 +156,4 @@ Caused by: java.lang.ClassCastException: clojure.lang.Var$Unbound cannot be cast
 	at automat.fsm__init.<clinit>(Unknown Source)
 	... 122 more
 
+```
