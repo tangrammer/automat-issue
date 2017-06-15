@@ -25,7 +25,10 @@ Compiling issue.hola
 hola...
 Created /Users/tangrammer/git/ride-on/issue/target/issue-0.1.0-SNAPSHOT.jar
 Created /Users/tangrammer/git/ride-on/issue/target/issue-0.1.0-SNAPSHOT-standalone.jar
-tangrammers-MacBook-Pro:issue tangrammer$ java -jar ./target/issue-0.1.0-SNAPSHOT-standalone.jar 
+
+
+
+$ java -jar ./target/issue-0.1.0-SNAPSHOT-standalone.jar 
 issue core
 -main...
 Exception in thread "main" java.lang.ExceptionInInitializerError
